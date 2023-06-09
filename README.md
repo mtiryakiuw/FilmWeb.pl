@@ -3,7 +3,7 @@ Web Scraping Final Project
 
 
 Submitted by: 
-Natalia Miela,  
+Natalia Miela,
 Nurdan Beşli, 457945 
 Mehmet Tiryaki, 437988 
  
