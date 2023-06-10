@@ -1,13 +1,6 @@
 # FilmWeb.pl
 Web Scraping Final Project
 
-
-Submitted by: 
-Natalia Miela,
-Nurdan Beşli, 457945 
-Mehmet Tiryaki, 437988 
- 
-
 INTRODUCTION 
 
 The focus of our web scraping project is to extract data from the film ranking section of the website filmweb.pl. Filmweb is a popular online platform that provides comprehensive information about movies, including rankings, reviews, and details about individual films. The film ranking page on filmweb.pl presents a curated list of movies based on various criteria such as popularity, user ratings, and reviews.  
