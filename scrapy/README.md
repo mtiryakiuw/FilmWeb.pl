@@ -1,1 +1,15 @@
-aaaaaaaa
+To run the code, follow these steps: 
+
+Make sure you have Scrapy installed. 
+
+Create a new Scrapy project. 
+
+Place the spiders provided in the appropriate "spiders" folder within your Scrapy project directory. 
+
+Open a terminal or command prompt and navigate to your Scrapy project directory. 
+
+Execute the command: scrapy crawl link_lists -o links.csv to run the "link_lists" spider and save the extracted links to a CSV file named "links.csv". 
+
+After the above step, execute the command: scrapy crawl films -o films.csv to run the "films" spider and save the scraped movie data to a CSV file named "films.csv". 
+
+Verify the generated CSV files ("link_list.csv" and "films.csv") to check if the data has been successfully scraped. 
